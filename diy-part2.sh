@@ -26,4 +26,5 @@ sed -i 's/192.168.1.1/192.168.100.1/g' package/base-files/files/bin/config_gener
 #git clone https://github.com/xiaorouji/openwrt-passwall.git package/passwall
 #git clone https://github.com/lxhao61/openwrt-passwall.git package/passwall
 git clone https://github.com/kenzok8/openwrt-packages.git package/openwrt-packages
-git clone https://github.com/kenzok8/small package/openwrt-packages-small
+git clone https://github.com/kenzok8/small.git package/openwrt-packages-small
+git clone https://github.com/TheMMcOfficial/lede-cups.git package/lede-cups
