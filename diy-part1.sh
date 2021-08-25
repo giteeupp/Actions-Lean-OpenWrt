@@ -21,3 +21,6 @@
 
 # 添加xiaorouji大passwall源
 #sed -i '$a src-git passwall https://github.com/xiaorouji/openwrt-passwall.git;main' feeds.conf.default
+
+
+#./scripts/diffconfig.sh > seed.config 复制一下这个seed.config的文本内容到项目根目录的.config
